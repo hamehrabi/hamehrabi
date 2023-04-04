@@ -1,6 +1,8 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😉Hey There,
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😊Hey There!
 
 Hey there, I'm Hamed Mehrabi, and I absolutely love working as a machine learning engineer. I'm always eager to learn about the latest trends and advancements in the world of data science, and I've been fortunate enough to gain over three years of experience in this exciting field. I'm proud to say that I've successfully implemented data science pipelines in production, using my practical expertise in ML-Ops, deep learning, and other machine learning techniques.
+
+💻 To see my portfolio projects please visit [my website](https://hamehrabi.github.io/)
 
 ## 🛠 My technical skills:
 
@@ -41,5 +43,3 @@ Hey there, I'm Hamed Mehrabi, and I absolutely love working as a machine learnin
   
 </p>
 <br>
-
-My Website 👉: https://hamehrabi.github.io/
