@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😊Hey There!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😊Hey There!   
 
 Hey there, I'm Hamed Mehrabi, and I absolutely love working as a machine learning engineer. I'm always eager to learn about the latest trends and advancements in the world of data science, and I've been fortunate enough to gain over three years of experience in this exciting field. I'm proud to say that I've successfully implemented data science pipelines in production, using my practical expertise in ML-Ops, deep learning, and other machine learning techniques.
 
@@ -43,3 +43,20 @@ Hey there, I'm Hamed Mehrabi, and I absolutely love working as a machine learnin
   
 </p>
 <br>
+
+## 🥇 Badges:
+[<img  src="https://user-images.githubusercontent.com/62473531/230049558-2fed8b8a-9656-40a4-8c89-df42cf6ffc3b.png" alt="hamehrabi" width="5%"/>](https://www.credential.net/85ad5853-2bef-4f2c-aa34-2f29aa3a3dc1)
+[<img  src="https://user-images.githubusercontent.com/62473531/230051616-65e66166-072e-45e3-95f0-e9af409a3c2e.png" alt="hamehrabi" width="5%"/>](https://www.credly.com/badges/9351087c-6d7e-4b2e-bb29-8e07c46dfee8?source=linked_in_profile)
+[<img  src="https://user-images.githubusercontent.com/62473531/230052455-745219f7-8b2c-4b88-9fe1-771cd1263ccb.png" alt="hamehrabi" width="5%"/>](https://www.coursera.org/account/accomplishments/specialization/PHNYAB43M37W)
+<br>
+## 👨‍🎓 My certificates:
+* [TensorFlow Developer Certificate](https://www.credential.net/85ad5853-2bef-4f2c-aa34-2f29aa3a3dc1#gs.plffdi)
+* [TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/JUCYUVA4MXKG)
+* [Advanced Machine Learning on Google Cloud](https://www.coursera.org/account/accomplishments/specialization/PHNYAB43M37W)
+* [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/account/accomplishments/specialization/RQ383TCS3X6G)
+* [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/27MQ5LJFFRS3)
+* [Preparing for Google Cloud Certification: Machine Learning Engineer](https://www.coursera.org/account/accomplishments/professional-cert/945RKN2W4VH5)
+* [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/9351087c-6d7e-4b2e-bb29-8e07c46dfee8?source=linked_in_profile)
+* [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://www.udemy.com/certificate/UC-65613133-89af-493d-99c6-ad8a7642def3/)
+* [PyTorch for Deep Learning in 2023: Zero to Mastery](https://www.udemy.com/certificate/UC-1e9054be-392c-4147-a0c9-ac137854dda1/)
+* [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-7a5a975b-793a-40bd-93a5-1647eb2db998/)
